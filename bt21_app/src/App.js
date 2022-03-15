@@ -22,7 +22,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Click Here
+          Click Here Test
         </a>
         {/* <section>
           <img id="koya" class="hidden" src={koya}>
